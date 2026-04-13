@@ -1,18 +1,8 @@
-# Los Cruceños Archive
-The source code files and licensing for Los Cruceños
+# A&F Metal Products
+The source code files for A&F Metal Products
 
 # History
 
-Los Cruceños was founded by Antonio “Tony” Ledesma Fresquez and Onesino “Necho” Duran, Mexican musicians whose voice and compositions resonated in their community for decades. 
-Their music captured the essence of an era, preserving stories, and the spirit of New Mexico and it’s people.  
+Since 1989, A&F Metal Products has been providing quality fabrication and metal services to customers across northern and southern California. In 1996 we expanded to serve the steel fabrication needs of the Central Coast, and Santa Maria has been home ever since.
 
-Today, I have the honor of preserving and sharing these recordings, ensuring that their art and legacy continue to inspire future generations.
-
----
-
->"The urge to compose is the hardest to fight...Music is the only medium that can truly capture the feelings of a moment"
->— Necho Duran, Los Cruceños
-
----
-
-<img width="300" height="430" alt="home" src="https://github.com/user-attachments/assets/4a81b8c7-30b8-48eb-988b-d4551537dbb0" />
+Over thirty years in business has earned us a reputation for delivering the highest quality work, job after job. We are a complete source for steel fabrication, and since 1998 our in-house powder coating department has allowed us to take your project from raw steel all the way to a finished product, under one roof.
